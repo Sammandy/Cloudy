@@ -28,6 +28,6 @@ To use this app, you can follow these steps:
 To use the app, simply type the name of the city you want to search for in the search bar and press Enter. The app will display the current weather conditions for the searched city.
 
 # Demo
-A live demo of the React Weather App is available at [LINK TO LIVE DEMO](//upload vedio from drive).
+A live demo of the React Weather App is available at [[LINK TO LIVE DEMO](https://www.loom.com/share/274ae5cf4cf745089b910951f9697539?sid=e77a947a-fc2b-4d55-a46e-f8df3cf6caac)]).
 
 
